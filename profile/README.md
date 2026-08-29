@@ -24,28 +24,42 @@ the lights on.
 
 | | |
 | --- | --- |
-| **[Death by Mushroom](https://www.deathbymushroom.com)** | Forage, cook, and hope you got it right |
-| **[Even Eye Odd Finger](https://www.eveneyeoddfinger.com)** | Samurai noir survival |
-| **[Honor: The Last Oath](https://www.thelastoath.com)** | Tactical medieval RPG |
-| **[Last Die](https://www.lastdie.com)** | Push your luck until it pushes back |
-| **[Marginalia: Trials of Faith](https://www.marginaliagame.com)** | Illuminated manuscripts, uneasy questions |
-| **[MMA Trivia: Last Round](https://www.mmatrivialastround.com)** | For people who remember the undercard |
-| **[Omens of the Eagle](https://www.omensoftheeagle.com)** | Roman strategy, card-driven |
-| **[Shadow on the Map](https://www.shadowonthemap.com)** | Travel trivia wrapped in a mystery |
+| **Another Match Game** | Private Photo Matching Game |
+| **Another Trivia Game** | Custom Trivia On Any Theme |
+| **Death by Mushroom** | Fungi Survival Trivia |
+| **Even Eye Odd Finger** | Edo-Era Dice Survival |
+| **Honor Dice** | Medieval Tournament Game |
+| **Kings Favor** | Medieval Dice Battler |
+| **Last Die** | Casual Dice Game |
+| **Marginalia** | Medieval Puzzle Game |
+| **MMA Trivia Last Round** | MMA Trivia Fighting Game |
+| **No Time To Tag** | Word Puzzle Game |
+| **Omens of the Eagle** | Roman Strategy Card Game |
+| **Shadow on the Map** | Travel Trivia Mystery |
+| **The Last Oath** | Tactical Medieval RPG |
+
+→ **Every game, with store links and what's coming next, at
+[realityse.com/games](https://www.realityse.com/games).**
 
 ### Apps
 
 | | |
 | --- | --- |
-| **[Cash Camel Deals](https://www.cashcameldeals.com)** | Any Amazon link, its whole price history |
-| **[Dream Sift](https://www.dreamsift.com)** | An AI dream journal that reads between the lines |
-| **[Just Lift Be Fit](https://www.justliftbefit.com)** | A workout tracker that gets out of your way |
-| **[Lunar Oracle](https://www.lunaroracle.com)** | Lunar guidance and tarot, personalised |
-| **[Ravensight](https://ravensight.io)** | Ask your game why players quit |
-| **[RecipeAdapt](https://www.recipeadapt.com)** | Any recipe, rewritten for how you eat |
-| **[Saunavuoro](https://saunavuoroapp.com)** | Sauna, cold plunge and meditation, tracked |
-| **[Uplift Echo](https://www.upliftecho.com)** | Daily affirmations written for you |
-| **[Waypoint Atlas](https://waypointatlas.org)** | Messy bookings into one clean itinerary |
+| **Bjorlunda** | Voice-Driven Idea Mapping |
+| **Cash Camel Deals** | Amazon Price History Tracking |
+| **Dream Sift** | AI Dream Journal |
+| **Just Lift Be Fit** | Minimal Workout Tracker |
+| **Lunar Oracle** | Lunar Guidance & Tarot |
+| **Ravensight** | Agentic Player Analytics |
+| **RecipeAdapt** | Dietary Recipe Rewriting |
+| **Saunavuoro** | Sauna & Cold Plunge Tracker |
+| **Siren Editor** | AI Diagram Editor |
+| **Uplift Echo** | Daily AI Affirmations |
+| **Vibe Flow Canvas** | Infinite Collaboration Canvas |
+| **Waypoint Atlas** | Travel Itinerary Organizer |
+
+→ **Every app, with links, at
+[jacoblashley.com](https://www.jacoblashley.com).**
 
 ---
 
