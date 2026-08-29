@@ -26,22 +26,26 @@ the lights on.
 | --- | --- |
 | **[Death by Mushroom](https://www.deathbymushroom.com)** | Forage, cook, and hope you got it right |
 | **[Even Eye Odd Finger](https://www.eveneyeoddfinger.com)** | Samurai noir survival |
+| **[Honor: The Last Oath](https://www.thelastoath.com)** | Tactical medieval RPG |
 | **[Last Die](https://www.lastdie.com)** | Push your luck until it pushes back |
 | **[Marginalia: Trials of Faith](https://www.marginaliagame.com)** | Illuminated manuscripts, uneasy questions |
 | **[MMA Trivia: Last Round](https://www.mmatrivialastround.com)** | For people who remember the undercard |
 | **[Omens of the Eagle](https://www.omensoftheeagle.com)** | Roman strategy, card-driven |
 | **[Shadow on the Map](https://www.shadowonthemap.com)** | Travel trivia wrapped in a mystery |
-| **[Honor: The Last Oath](https://www.thelastoath.com)** | Tactical medieval RPG |
-
-Plus **No Time To Tag**, **Another Trivia Game**, **Another Match Game**,
-**King's Favor** and **Honor Dice**.
-
-**In development:** *Die Like A Viking* · *Die Like A Witch* · *Jungle Chaos Tycoon*
 
 ### Apps
 
-**Cash Camel** · **RecipeAdapt** · **DreamSift** · **JustLift** · **Uplift Echo** ·
-**Lunar Oracle** · **Waypoint Atlas** · **SaunaVuoro**
+| | |
+| --- | --- |
+| **[Cash Camel Deals](https://www.cashcameldeals.com)** | Any Amazon link, its whole price history |
+| **[Dream Sift](https://www.dreamsift.com)** | An AI dream journal that reads between the lines |
+| **[Just Lift Be Fit](https://www.justliftbefit.com)** | A workout tracker that gets out of your way |
+| **[Lunar Oracle](https://www.lunaroracle.com)** | Lunar guidance and tarot, personalised |
+| **[Ravensight](https://ravensight.io)** | Ask your game why players quit |
+| **[RecipeAdapt](https://www.recipeadapt.com)** | Any recipe, rewritten for how you eat |
+| **[Saunavuoro](https://saunavuoroapp.com)** | Sauna, cold plunge and meditation, tracked |
+| **[Uplift Echo](https://www.upliftecho.com)** | Daily affirmations written for you |
+| **[Waypoint Atlas](https://waypointatlas.org)** | Messy bookings into one clean itinerary |
 
 ---
 
@@ -58,7 +62,3 @@ send us.
 - **General enquiries:** [realityse.com](https://www.realityse.com)
 
 ---
-
-<p align="center">
-  <sub>© Reality Software Entertainment, LLC. All trademarks referenced herein are property of their respective owners.</sub>
-</p>
