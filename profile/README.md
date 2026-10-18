@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Reality-Software-Entertainment/.github/main/profile/assets/rse-banner.png" alt="The red RSE logo against a moon and red nebula" width="1200">
+</p>
+
 <h1 align="center">Reality Software Entertainment</h1>
 
 <p align="center">
@@ -25,67 +29,36 @@ Every title, with store links, lives at **[realityse.com/games](https://www.real
 
 ## Ravensight
 
-<p>
-  <a href="https://www.ravensight.io"><strong>Ravensight</strong></a> is player analytics for indie game studios,
-  with an AI analyst on top, AI personas that play your build, and a memory that
-  outlives any single game. We built it for our own games first.
-</p>
+**[Ravensight](https://www.ravensight.io)** connects the whole life of your game:
+brainstorms, design, playtesting, player behavior, marketing and sales. We built it
+for our own games first, so every release could make the next one smarter.
 
-A shipped game produces more evidence than a small team can read: sessions, bug
-reports, reviews, streams, your own notes. Then the next game starts on an empty
-dashboard. Ravensight fixes both halves.
+- **Start with your idea.** Brainstorm with an AI partner, develop design documents
+  and bring your studio’s existing knowledge into the work. Your vision stays at
+  the center.
+- **Understand what players actually do.** Explore events, retention, funnels,
+  journeys and live activity. Investigate changes with alerts, reports and
+  experiments, and share findings with the people making the game.
+- **Ask Huginn. Remember with Muninn.** An AI analyst answers questions using your
+  data and shows the evidence. Studio memory connects documents, findings and
+  decisions across your games, so the next project doesn’t start from scratch.
+- **Test, investigate and improve.** AI personas play your build, while Simulation
+  Runner exercises repeatable scenarios. Player Reports bring feedback and
+  submitted screenshots into the investigation. Playtests currently run on your
+  own machine; **hosted playtesting is planned** so you can run builds in the cloud.
+- **Learn from the whole release.** Bring marketing attribution and storefront
+  sales together with player behavior, then carry what worked into your next game.
+- **Work with your tools.** Engine SDKs, MCP and focused agent skills connect
+  Ravensight to your game and coding workflow, from integration checks to analysis.
 
-- **Analytics that answer real questions.** Sessions, retention, funnels with
-  per-step timing, level progress, property breakdowns and journey graphs, for one
-  game or every game your studio has shipped.
-- **Huginn, the AI analyst.** Ask in plain language and it runs the query against
-  your own events, then shows its work. Every query is rewritten to your game
-  before it runs, so it can only ever read your data.
-- **Muninn, studio memory.** Findings, confirmed patterns, marketing touchpoints
-  with measured lift, sales by storefront and your design documents, kept for the
-  studio rather than the title, so game two starts where game one left off.
-- **Playtest.** AI personas play your build from a CLI on your own machine and
-  report where they got stuck. A fix attempt edits your checkout on a branch and
-  replays the persona to check it. Ravensight never pushes to your repository.
-- **Built for agents.** An MCP server gives your own coding agent the same
-  read-only toolset Huginn uses, so it can check what players actually did before
-  it suggests a change.
-- **Privacy you can put on a store page.** A random per-install id, no advertising
-  identifier, no player accounts, nothing sold. No tracking prompt needed.
+**Unlimited games and teammates, with shared usage.** Every studio gets one million
+included events and ten AI units each month, with no card required. Additional
+usage, playtests and source scans use a prepaid balance.
 
-**Pricing is prepaid usage, not seats.** Every studio gets a million events and ten
-AI units free each month, with unlimited games and teammates. Past that you top up
-a balance and pay for what runs, and work that produces nothing usable is refunded.
-
-**[Start free at ravensight.io](https://www.ravensight.io)** ·
+**[Explore Ravensight](https://www.ravensight.io/build-better-games/)** ·
+[Start free](https://app.ravensight.io/signup) ·
 [Docs](https://www.ravensight.io/docs/) ·
 [Blog](https://www.ravensight.io/blog/)
-
-### SDKs and tools
-
-Open source and MIT licensed. Pick your engine:
-
-| | |
-| --- | --- |
-| **Godot** | [ravensight-godot](https://github.com/Reality-Software-Entertainment/ravensight-godot) |
-| **Unity** | [ravensight-unity](https://github.com/Reality-Software-Entertainment/ravensight-unity) |
-| **Unreal** | [ravensight-unreal](https://github.com/Reality-Software-Entertainment/ravensight-unreal) |
-| **JavaScript** (web and Node) | [ravensight-js](https://github.com/Reality-Software-Entertainment/ravensight-js) · `npm install ravensight` |
-| **LÖVE** | [ravensight-love](https://github.com/Reality-Software-Entertainment/ravensight-love) |
-| **iOS and macOS** (Swift) | [ravensight-ios](https://github.com/Reality-Software-Entertainment/ravensight-ios) |
-| **Android** (Kotlin) | [ravensight-android](https://github.com/Reality-Software-Entertainment/ravensight-android) |
-| **C++** | [ravensight-cpp](https://github.com/Reality-Software-Entertainment/ravensight-cpp) |
-| **Odin** | [ravensight-odin](https://github.com/Reality-Software-Entertainment/ravensight-odin) |
-| **Anything else** | the [HTTP API](https://www.ravensight.io/docs/#http-api) |
-
-And for your tooling:
-
-- **[ravensight-doctor](https://github.com/Reality-Software-Entertainment/ravensight-doctor)**
-  checks an SDK integration and fails CI on mistakes: `npx ravensight-doctor`.
-- **[ravensight-skills](https://github.com/Reality-Software-Entertainment/ravensight-skills)**
-  teaches your coding agent to audit and improve your game's tracking.
-- **[ravensight-docs-mcp](https://github.com/Reality-Software-Entertainment/ravensight-docs-mcp)**
-  serves the Ravensight docs to any MCP client.
 
 ---
 
