@@ -60,6 +60,19 @@ usage, playtests and source scans use a prepaid balance.
 [Docs](https://www.ravensight.io/docs/) ·
 [Blog](https://www.ravensight.io/blog/)
 
+## Open-source skill telemetry
+
+**[Ravensight Skill Telemetry](https://github.com/Reality-Software-Entertainment/ravensight-skill-telemetry)**
+is our Apache-2.0 Rust foundation for understanding agent skill activity. Three small
+components provide a local telemetry journal, a Claude Code hook adapter and
+read-only skill discovery. No Ravensight account is required.
+
+It records skill activity and explicitly reported outcomes without retaining prompts,
+source code or tool responses. Loading a skill does not count as completing its work.
+Exports support normalized JSONL and OpenTelemetry JSON, with no built-in network
+transport. The source is available now; package releases and broader live-client
+compatibility verification are still pending.
+
 ---
 
 <p align="center">
