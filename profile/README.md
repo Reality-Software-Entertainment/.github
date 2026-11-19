@@ -64,7 +64,7 @@ usage, playtests and source scans use a prepaid balance.
 
 **[Ravensight Skill Telemetry](https://github.com/Reality-Software-Entertainment/ravensight-skill-telemetry)**
 is our Apache-2.0 Rust foundation for understanding agent skill activity. Three small
-components provide a local telemetry journal, a Claude Code hook adapter and
+components provide a local telemetry journal, an agent hook adapter and
 read-only skill discovery. No Ravensight account is required.
 
 It records skill activity and explicitly reported outcomes without retaining prompts,
