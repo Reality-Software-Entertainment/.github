@@ -52,7 +52,7 @@ for our own games first, so every release could make the next one smarter.
   Ravensight to your game and coding workflow, from integration checks to analysis.
 
 **Unlimited games and teammates, with shared usage.** Every studio gets one million
-included events and ten AI units each month, with no card required. Additional
+included events and five AI units each month, with no card required. Additional
 usage, playtests and source scans use a prepaid balance.
 
 **[Explore Ravensight](https://www.ravensight.io/build-better-games/)** ·
